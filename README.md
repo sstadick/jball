@@ -4,6 +4,8 @@ Powers https://www.patreon.com/WaiverWireScience
 
 **NOTE** work in progress as the original is ported from different data sources and from Python. 
 
+Example plots: https://x.com/WaiverWireSci/status/1838706882661302689
+
 ## Synopsis
 
 This takes stats from last years player, clusters last years players, then projects this years players onto last years players clusters to see who looks comparable.
