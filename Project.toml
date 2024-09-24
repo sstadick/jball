@@ -1,0 +1,14 @@
+name = "JBall"
+uuid = "cdd995f6-128c-4ac6-994e-4f9bbda018d5"
+authors = ["Seth Stadick <sstadick@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Clustering = "aaaa29a8-35af-508c-8bc3-b662a17a0fe5"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+MultivariateStats = "6f286f6a-111f-5878-ab1e-185364afe411"
+NFLData = "38e18452-fdda-4cae-b91e-088906595f57"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
